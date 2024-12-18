@@ -140,7 +140,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-1-2"
+              "customBlockName": "text-image"
             },
             {
               "id": "box-id-564852189",
@@ -190,7 +190,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-1-2"
+              "customBlockName": "text-image"
             },
             {
               "id": "box-id--456216165",
@@ -240,7 +240,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-1-2"
+              "customBlockName": "text-image"
             },
             {
               "id": "box-id--1477284519",
@@ -290,7 +290,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-1-2"
+              "customBlockName": "text-image"
             },
             {
               "id": "box-id--129892598",
