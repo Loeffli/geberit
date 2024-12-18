@@ -1,0 +1,54 @@
+
+.columns-2-1-wrapper {
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: space-between;
+}
+
+.columns-2-1-wrapper > .columns-2-1 {
+  display: flex;
+  width: 100%;
+  margin: 32px 0;
+}
+
+.columns-2-1-wrapper > .columns-2-1 > div {
+  display: flex;
+  flex-direction: row; /* Ensure the direction is row */
+  width: 100%;
+  gap: 16px; /* Adjust gap for better spacing */
+}
+
+.columns-2-1-wrapper .columns-2-1 > div > div {
+  /* flex: 1; */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+  display: flex;
+  flex-direction: column; /* Ensure text elements are stacked */
+  justify-content: center; /* Center text vertically within the text container */
+}
+
+.columns-2-1-wrapper .columns-2-1 > div > div > * {
+  margin: 0; /* Remove margins from all child elements */
+}
+
+.columns-2-1-wrapper img {
+  max-width: 100%;
+  height: auto;
+}
+
+.columns-2-1-wrapper .columns-2-1-img-col {
+  flex: 0 0 67%;
+}
+
+@media (width >= 900px) { /* Correct the media query syntax */
+  .columns-2-1-wrapper > .columns-2-1 > div {
+    align-items: center; /* Center items vertically */
+    flex-direction: row; /* Ensure flex direction is row */
+    gap: 16px; /* Adjust gap for better spacing */
+  }
+
+  .columns-2-1-wrapper .columns-2-1 > div > div {
+    /* flex: 1; */
+    order: unset;
+  }
+}

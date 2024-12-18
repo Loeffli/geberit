@@ -1,0 +1,38 @@
+
+.gdefault-list-wrapper {
+  width: 100%;
+}
+
+.gdefault-list > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.gdefault-list ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+.gdefault-list li {
+  margin-right: 30px; /* Adjusted spacing to match original more closely */
+  font-weight: bold;
+}
+
+.gdefault-list li:last-child {
+  margin-right: 0;
+}
+
+.gdefault-list li:first-child::after {
+  content: '';
+  display: block;
+  height: 2px;
+  width: 100%; /* Ensures underline spans the full width of the text */
+  background-color: blue; /* Ensure the blue color matches the original */
+  margin-top: 1px; /* Adjusted spacing to match original */
+}

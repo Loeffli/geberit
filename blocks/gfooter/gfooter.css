@@ -1,0 +1,45 @@
+
+.gfooter-wrapper {
+  padding: 20px 0; /* Add some padding to the top and bottom */
+}
+
+.gfooter-wrapper .gfooter.block > div > div {
+  display: flex;
+  flex-direction: column; /* Ensure elements are aligned horizontally */
+  align-items: center; /* Vertically center the child elements */
+  width: 100%; /* Ensure the inner container spans the full width */
+  justify-content: space-between; /* Space the inner elements evenly */
+}
+
+.gfooter-wrapper .gfooter.block ul {
+  list-style: none; /* Remove default list styling */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row; /* Ensure list items are aligned horizontally */
+  align-items: center;
+}
+
+.gfooter-wrapper .gfooter.block ul li {
+  margin: 0 10px; /* Add space between list items */
+}
+
+.gfooter-wrapper .gfooter.block ul:first-of-type {
+  order: 1; /* Move the first ul to the right */
+  margin-left: auto; /* Ensure it stays on the far right */
+}
+
+.gfooter-wrapper .gfooter.block p {
+  order: 2; /* Ensure the paragraph is centrally aligned */
+  margin: 0 20px; /* Add some margin around the paragraph */
+  white-space: nowrap; /* Prevent text from wrapping */
+  flex-grow: 0; /* Allow the paragraph to take up available space */
+  text-align: center; /* Center the text */
+  margin-left: auto; /* Ensure it stays on the far right */
+}
+
+.gfooter-wrapper .gfooter.block ul:last-of-type {
+  order: 2; /* Ensure the last ul is on the far left */
+  margin-left: auto; /* Ensure it stays on the far right */
+  flex-grow: 1; /* Allow the list to grow */
+}
