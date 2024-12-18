@@ -1,46 +1,46 @@
 
-.text-image-wrapper > .text-image {
+.columns-1-2-wrapper > .columns-1-2 {
   margin: 32px 0;
 }
 
-.text-image-wrapper > .text-image > div {
+.columns-1-2-wrapper > .columns-1-2 > div {
   display: flex;
   flex-direction: row; /* Ensure horizontal alignment */
   gap: 8px; /* Further reduce the gap between the sections */
   align-items: center; /* Align items in the center */
 }
 
-.text-image-wrapper > .text-image > div > div {
+.columns-1-2-wrapper > .columns-1-2 > div > div {
   /* flex: 1; Make sure both sections take up equal space */
   padding: 0; /* Remove padding to reduce space above the text */
   order: unset; /* Ensure the order is default */
 }
 
-.text-image-wrapper .text-image-img-col {
+.columns-1-2-wrapper .columns-1-2-img-col {
   flex: 0 0 67%;
 }
 
-.text-image-wrapper > .text-image > div > .text-image-img-col {
+.columns-1-2-wrapper > .columns-1-2 > div > .columns-1-2-img-col {
   order: unset; /* Ensure the order is default */
   display: flex;
   align-items: center;
   justify-content: flex-end; /* Align the image to the right */
 }
 
-.text-image-wrapper > .text-image > div > .text-image-img-col img {
+.columns-1-2-wrapper > .columns-1-2 > div > .columns-1-2-img-col img {
   max-width: 100%; /* Ensure the image fits within its container */
   height: auto;
   display: block; /* Ensure the image is displayed as a block element */
 }
 
 @media (width >= 900px) {
-  .text-image-wrapper > .text-image > div {
+  .columns-1-2-wrapper > .columns-1-2 > div {
     align-items: center; /* Ensure consistency across all screen sizes */
     flex-direction: row; /* Ensure horizontal alignment */
     gap: 8px; /* Maintain the smaller gap between the sections */
   }
 
-  .text-image-wrapper > .text-image > div > div {
+  .columns-1-2-wrapper > .columns-1-2 > div > div {
     /* flex: 1; */
     order: unset;
   }

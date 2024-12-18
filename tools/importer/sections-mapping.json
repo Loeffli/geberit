@@ -106,16 +106,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-auf-langlebigkeit-ausgelegt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-auf-langlebigkeit-ausgelegt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-auf-langlebigkeit-ausgelegt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-auf-langlebigkeit-ausgelegt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "image-text"
+              "customBlockName": "columns-2-1"
             },
             {
               "id": "box-id-1075386366",
@@ -131,16 +131,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-wassersparende-losungen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-wassersparende-losungen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-wassersparende-losungen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-wassersparende-losungen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "text-image"
+              "customBlockName": "columns-1-2"
             },
             {
               "id": "box-id-564852189",
@@ -156,16 +156,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-uber-180-ecodesign-produkte\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-uber-180-ecodesign-produkte\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-uber-180-ecodesign-produkte\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-uber-180-ecodesign-produkte\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "image-text"
+              "customBlockName": "columns-2-1"
             },
             {
               "id": "box-id-54318012",
@@ -181,16 +181,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-sorgfaltiger-umgang-mit-ressourcen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-sorgfaltiger-umgang-mit-ressourcen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-sorgfaltiger-umgang-mit-ressourcen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-sorgfaltiger-umgang-mit-ressourcen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "text-image"
+              "customBlockName": "columns-1-2"
             },
             {
               "id": "box-id--456216165",
@@ -206,16 +206,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-kompakt-verpackt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-kompakt-verpackt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-kompakt-verpackt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-kompakt-verpackt\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "image-text"
+              "customBlockName": "columns-2-1"
             },
             {
               "id": "box-id--966750342",
@@ -231,16 +231,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-reduktion-der-co2-emissionen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-reduktion-der-co2-emissionen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-reduktion-der-co2-emissionen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-reduktion-der-co2-emissionen\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "text-image"
+              "customBlockName": "columns-1-2"
             },
             {
               "id": "box-id--1477284519",
@@ -256,16 +256,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-gold-medaille-von-ecovadis\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-gold-medaille-von-ecovadis\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-gold-medaille-von-ecovadis\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-gold-medaille-von-ecovadis\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "image-text"
+              "customBlockName": "columns-2-1"
             },
             {
               "id": "box-id--1987818696",
@@ -281,16 +281,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"to-top\")/div[@class=\"\"]/main[@class=\"gdds\"]/div[@class=\"tabs_tabs__0G2wv tabs_white__orLr2 tabs_paddingTopSmall__DjOai tabs_paddingBottomSmall__WbtQ3\"]/div[@id=\"section-\"]/div[@class=\"tabs_tabContent__j0P69\"]/div[@class=\"tabs_visible__2e4St\"]/div[@class=\"text-image_wrapper__g2Rht text-image_rightBig__Pym_Z text-image_marginTopSmall__k_N40 text-image_marginBottomSmall__JATHQ\"]/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"to-top\")/div[@class=\"\"]/main[@class=\"gdds\"]/div[@class=\"tabs_tabs__0G2wv tabs_white__orLr2 tabs_paddingTopSmall__DjOai tabs_paddingBottomSmall__WbtQ3\"]/div[@id=\"section-\"]/div[@class=\"tabs_tabContent__j0P69\"]/div[@class=\"tabs_visible__2e4St\"]/div[@class=\"columns-1-2_wrapper__g2Rht columns-1-2_rightBig__Pym_Z columns-1-2_marginTopSmall__k_N40 columns-1-2_marginBottomSmall__JATHQ\"]/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"to-top\")/div[@class=\"\"]/main[@class=\"gdds\"]/div[@class=\"tabs_tabs__0G2wv tabs_white__orLr2 tabs_paddingTopSmall__DjOai tabs_paddingBottomSmall__WbtQ3\"]/div[@id=\"section-\"]/div[@class=\"tabs_tabContent__j0P69\"]/div[@class=\"tabs_visible__2e4St\"]/div[@class=\"text-image_wrapper__g2Rht text-image_rightBig__Pym_Z text-image_marginTopSmall__k_N40 text-image_marginBottomSmall__JATHQ\"]/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"to-top\")/div[@class=\"\"]/main[@class=\"gdds\"]/div[@class=\"tabs_tabs__0G2wv tabs_white__orLr2 tabs_paddingTopSmall__DjOai tabs_paddingBottomSmall__WbtQ3\"]/div[@id=\"section-\"]/div[@class=\"tabs_tabContent__j0P69\"]/div[@class=\"tabs_visible__2e4St\"]/div[@class=\"columns-1-2_wrapper__g2Rht columns-1-2_rightBig__Pym_Z columns-1-2_marginTopSmall__k_N40 columns-1-2_marginBottomSmall__JATHQ\"]/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "text-image"
+              "customBlockName": "columns-1-2"
             },
             {
               "id": "box-id--129892598",
@@ -306,16 +306,16 @@
               "childrenXpaths": [
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"section-soziales-engagement\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
+                  "xpathWithDetails": "id(\"section-soziales-engagement\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX bsCKgW\"]"
                 },
                 {
                   "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"section-soziales-engagement\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI text-image_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
+                  "xpathWithDetails": "id(\"section-soziales-engagement\")/div[@class=\"sc-cwHptR dUvOik\"]/div[@class=\"sc-jEACwC edLNBI columns-1-2_row__Uzivv\"]/div[@class=\"sc-cPiKLX kVoZPK\"]"
                 }
               ],
               "color": "rgba(0, 0, 255, 0.2)",
               "mapping": "columns",
-              "customBlockName": "image-text"
+              "customBlockName": "columns-2-1"
             },
             {
               "id": "box-id--2114860928",

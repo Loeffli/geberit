@@ -1,8 +1,8 @@
 export default function decorate(block) {
   const cols = [...block.firstElementChild.children];
-  block.classList.add(`text-image-${cols.length}-cols`);
+  block.classList.add(`columns-2-1-${cols.length}-cols`);
 
-  // setup image text-image
+  // setup image columns-2-1
   [...block.children].forEach((row) => {
     [...row.children].forEach((col) => {
       const pic = col.querySelector('picture');
@@ -10,7 +10,7 @@ export default function decorate(block) {
         const picWrapper = pic.closest('div');
         if (picWrapper && picWrapper.children.length === 1) {
           // picture is only content in column
-          picWrapper.classList.add('text-image-img-col');
+          picWrapper.classList.add('columns-2-1-img-col');
         }
       }
     });
