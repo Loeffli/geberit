@@ -115,7 +115,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-2-1"
+              "customBlockName": "image-text"
             },
             {
               "id": "box-id-1075386366",
@@ -165,7 +165,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-2-1"
+              "customBlockName": "image-text"
             },
             {
               "id": "box-id-54318012",
@@ -215,7 +215,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-2-1"
+              "customBlockName": "image-text"
             },
             {
               "id": "box-id--966750342",
@@ -265,7 +265,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.1)",
               "mapping": "columns",
-              "customBlockName": "columns-2-1"
+              "customBlockName": "image-text"
             },
             {
               "id": "box-id--1987818696",
@@ -315,7 +315,7 @@
               ],
               "color": "rgba(0, 0, 255, 0.2)",
               "mapping": "columns",
-              "customBlockName": "columns-2-1"
+              "customBlockName": "image-text"
             },
             {
               "id": "box-id--2114860928",
