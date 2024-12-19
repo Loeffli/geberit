@@ -1,17 +1,15 @@
 
 .header-wrapper {
-  width: 100%;
-  z-index: 25235;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 12px 3px
 }
 
 .header-wrapper .nav-wrapper {
-  background-color: white;
+  background-color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
   position: fixed;
-  z-index: 25463455;
+  z-index: 2222;
   width: 100%;
   height: var(--nav-height);
 }

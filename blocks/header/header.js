@@ -165,7 +165,7 @@ export default async function decorate(block) {
   block.append(navWrapper);
 }
 
-//add 150 years sticker
+// add 150 years sticker
 const sticker150 = document.createElement('img');
 sticker150.src = '/icons/01-geberit-150-years-128-x-85-l-d.gif';
 sticker150.classList.add('sticker150');
