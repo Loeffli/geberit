@@ -1,7 +1,8 @@
 
 .header-wrapper {
   width: 100%;
-  z-index: 2;
+  z-index: 25235;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 12px 3px
 }
 
 .header-wrapper .nav-wrapper {
@@ -10,7 +11,7 @@
   justify-content: center;
   align-items: center;
   position: fixed;
-  z-index: 2;
+  z-index: 25463455;
   width: 100%;
   height: var(--nav-height);
 }
@@ -37,11 +38,12 @@ header nav .nav-hamburger {
 header nav .nav-brand {
   order: 1;
   display: flex;
-  align-items: center;
+  align-items: left;
+  width: 230px;
 }
 
 header nav .nav-brand img {
-  height: 41px;
+  height: 20px;
   object-fit: contain;
 }
 
@@ -63,15 +65,18 @@ header nav .nav-sections ul {
 
 header nav .nav-sections li {
   position: relative;
+  margin-right: 3px;
 }
 
 header nav .nav-sections a {
   text-decoration: none;
   color: black;
   padding: 8px 16px; /* Ensure enough padding for better spacing */
+  padding: 0;
   display: flex;
   align-items: center;
   white-space: nowrap; /* Prevent text wrapping */
+  font-size: 16px;
 }
 
 /* Dropdown menu */
@@ -85,6 +90,20 @@ header nav .nav-sections .nav-drop ul {
   list-style: none;
   padding: 10px 0;
   margin: 0;
+  z-index: 1;
+  box-shadow: rgba(0, 0, 0, 0.26) 0px 3px 6px 0px, rgba(0, 0, 0, 0.2) 0px 12px 12px -10px inset;
+  cursor: pointer;
+  margin-top: 5px;
+  
+}
+
+header nav .nav-sections .nav-drop {
+  padding: 34.8px 0;
+  border-bottom: 5px solid white;
+}
+
+header nav .nav-sections .nav-drop:hover {
+  border-bottom-color: rgb(6, 124, 188);
 }
 
 header nav .nav-sections .nav-drop:hover ul {
@@ -95,6 +114,9 @@ header nav .nav-sections .nav-drop ul li a {
   padding: 10px 20px;
   display: block;
   white-space: nowrap;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
 }
 
 header nav .nav-tools {
@@ -102,6 +124,12 @@ header nav .nav-tools {
   display: flex;
   align-items: center;
   gap: 20px;
+  width: 100px;
+}
+
+header nav .nav-tools img {
+  width: 20px;
+  height: 20px;
 }
 
 .header-wrapper .nav-wrapper .nav-tools .button {
@@ -118,7 +146,7 @@ header nav .nav-tools {
 .header-wrapper .nav-wrapper .nav-tools p {
   margin: 0;
   padding: 0;
-  display: flex;
+  display: inline-block;
   align-items: center;
 }
 
@@ -132,4 +160,15 @@ header nav .nav-tools {
   content: url('path-to-search-icon');
   display: inline-block;
   margin-left: 10px;
+}
+
+
+
+.sticker150 {
+  width: 128px;
+  height: 85px;
+  position: fixed;
+  top: 109px;
+  right: 24px;
+
 }

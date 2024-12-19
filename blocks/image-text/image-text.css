@@ -1,20 +1,17 @@
-.image-text {
-    border: 1px solid red;
-}
-
 .image-text-wrapper {
-    border: 1px solid yellow;
     display: flex;
     align-items: center; /* Center items vertically */
     justify-content: space-between;
-  }
-  
-  .image-text-wrapper > .image-text {
+    border-bottom: 1px solid #ccc;
+ }
+
+ .image-text-wrapper > .image-text {
     display: flex;
     width: 100%;
-    margin: 32px 0;
+    margin-top:35px;
+    margin-bottom: 70px;
   }
-  
+
   .image-text-wrapper > .image-text > div {
     display: flex;
     flex-direction: row; /* Ensure the direction is row */
@@ -22,38 +19,55 @@
     gap: 16px; /* Adjust gap for better spacing */
   }
   
-  .image-text-wrapper .image-text > div > div {
-    /* flex: 1; */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
-    display: flex;
-    flex-direction: column; /* Ensure text elements are stacked */
-    justify-content: center; /* Center text vertically within the text container */
-  }
-  
-  .image-text-wrapper .image-text > div > div > * {
-    margin: 0; /* Remove margins from all child elements */
-  }
-  
-  .image-text-wrapper img {
-    max-width: 100%;
+.image-column {
+    width: 66.6666%;
+    margin: 0;
+}
+
+.image-column picture img {
+    width: 100%;
     height: auto;
-  }
-  
-  .image-text-wrapper .image-text-img-col {
-    flex: 0 0 67%;
-  }
-  
-  @media (width >= 900px) { /* Correct the media query syntax */
-    .image-text-wrapper > .image-text > div {
-      align-items: center; /* Center items vertically */
-      flex-direction: row; /* Ensure flex direction is row */
-      gap: 16px; /* Adjust gap for better spacing */
-    }
-  
-    .image-text-wrapper .image-text > div > div {
-      /* flex: 1; */
-      order: unset;
-    }
-  }
-  
+    aspect-ratio: 16 / 9;
+    margin: 0;
+}
+
+
+
+
+.text-column {
+    width: 33.3333%;
+    margin: 0;
+    vertical-align: top;
+}
+
+.text-column p {
+    font-size: 16px;
+    line-height: 24px;
+    hyphens: auto;
+}
+
+.text-column h1 {    
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 0.56px;
+    line-height: 36px;
+    text-transform: uppercase;
+    padding-bottom: 24px;
+    vertical-align: top;
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
